@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learinging TypeScript<br>🌱 I’m currently learning to code<br>⚡ Fun fact Sk Brann
+🔭 I’m currently working on learning TypeScript<br>🌱 I’m currently learning to code<br>⚡ Fun fact Sk Brann
 
 
 ## 🌐 Socials:
